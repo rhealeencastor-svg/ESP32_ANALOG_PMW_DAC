@@ -47,7 +47,7 @@ The voltage values in the table were reported by `analogReadMilliVolts()` and we
 
 ## Documentation
 
-<!-- Add Example 3 pictures/screenshots here -->
+https://github.com/user-attachments/assets/ac7f8c2c-90b0-40a9-a814-3033ec8f5473
 
 **Circuit Setup:**  
 
@@ -114,7 +114,7 @@ The PWM values are duty-cycle settings and are not DAC voltage measurements.
 
 ## Documentation
 
-<!-- Add Example 4 pictures/screenshots here -->
+https://github.com/user-attachments/assets/ac4b8dec-a24f-4296-98c4-3e0fe19ad733
 
 **Circuit Setup:**  
 
@@ -173,7 +173,7 @@ The voltages in this table were measured directly from GPIO 25 using a digital m
 
 ## Documentation
 
-<!-- Add Example 5 pictures/screenshots here -->
+Uploading example5.mov…
 
 **Multimeter Setup:**  
 
