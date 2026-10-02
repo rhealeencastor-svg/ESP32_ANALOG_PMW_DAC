@@ -35,13 +35,13 @@ Reads the potentiometer voltage using 12-bit ADC resolution (0–4095).
 The recorded readings increased as the potentiometer moved toward its maximum position. Repeated readings at intermediate positions fluctuated slightly due to electrical noise. At maximum, the raw reading repeatedly reached the ceiling of 4095. The millivolt values are readings reported by `analogReadMilliVolts()`, not external multimeter measurements.
 
 **Recorded Results:**
-| Potentiometer Position | Raw ADC Reading | Reported Voltage (mV) | Screenshot Time |
-| :--- | :--- | :--- | :--- |
-| Minimum | 0 | 142 | 12:02:16 PM |
-| About ¼ | 612 | 649 | 12:02:48 PM |
-| Halfway | 1993 | 1727 | 12:03:17 PM |
-| About ¾ | 3282 | 2718 | 12:03:29 PM |
-| Maximum | 4095 | 3139 | 12:03:42 PM |
+| Potentiometer Position | Raw ADC Reading | Reported Voltage (mV) |
+| :--- | :--- | :--- |
+| Minimum | 0 | 142 |
+| About ¼ | 612 | 649 |
+| Halfway | 1993 | 1727 |
+| About ¾ | 3282 | 2718 |
+| Maximum | 4095 | 3139 |
 
 ### Example 4: PWM LED Brightness (`example4_pwm.ino`)
 Maps the 12-bit ADC reading to an 8-bit PWM duty cycle (0–255) using a 5 kHz frequency on GPIO 19.
