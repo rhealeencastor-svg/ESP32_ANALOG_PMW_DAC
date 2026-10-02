@@ -187,10 +187,6 @@ The voltages in this table were measured directly from GPIO 25 using a digital m
 
 https://github.com/user-attachments/assets/dc28fe74-c3f9-4447-ab44-e02dcea5aa00
 
-**Multimeter Setup:**  
-
-[Insert image here]
-
 **DAC Code 0 – 0.09 V:**  
 
 <img width="4096" height="2304" alt="IMG_20261002_160013" src="https://github.com/user-attachments/assets/af98c1f2-7100-4297-ad9d-ddc01076a822" />
@@ -201,15 +197,15 @@ https://github.com/user-attachments/assets/dc28fe74-c3f9-4447-ab44-e02dcea5aa00
 
 **DAC Code 128 – 1.68 V:**  
 
-
+![Uploading image.png…]()
 
 **DAC Code 192 – 2.47 V:**  
 
-[Insert image here]
+<img width="4096" height="2304" alt="Unknown-4" src="https://github.com/user-attachments/assets/fa643df3-0c9d-4789-8091-1417881e542e" />
 
 **DAC Code 255 – 3.26 V:**  
 
-[Insert image here]
+<img width="4096" height="2304" alt="Unknown-5" src="https://github.com/user-attachments/assets/3373d7d4-f639-4de8-a6f3-27c003fe3a26" />
 
 ---
 
