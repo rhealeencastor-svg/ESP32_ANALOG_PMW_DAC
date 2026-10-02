@@ -17,9 +17,9 @@ Run Examples 3–5 separately to examine analog input, PWM output, and true DAC 
 ## Circuit Wiring
 | Component | Pin / Terminal | ESP32 Connection | Notes |
 | :--- | :--- | :--- | :--- |
-| **Potentiometer** | Outer Terminal 1 | **3V3** | Power supply |
-| | Middle Terminal (Wiper) | **GPIO 34** | ADC input (ADC_11db attenuation) |
-| | Outer Terminal 2 | **GND** | Ground |
+| **Potentiometer** | VCC | **3V3** | Power supply |
+| | OUTPUT (Wiper) | **GPIO 34** | ADC input (ADC_11db attenuation) |
+| | GND| **GND** | Ground |
 | **LED** | Anode (+) | **GPIO 19** | PWM output (LEDC) |
 | | Cathode (-) | **GND** via 330 Ω resistor | Current limiter |
 | **Test Point** | Multimeter Probe | **GPIO 25** | DAC Channel 1 (Pending testing) |
