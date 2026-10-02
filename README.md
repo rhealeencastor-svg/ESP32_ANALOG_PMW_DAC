@@ -51,13 +51,18 @@ https://github.com/user-attachments/assets/ac7f8c2c-90b0-40a9-a814-3033ec8f5473
 
 **Circuit Setup:**  
 
-[Insert image here]
+<img width="4096" height="2304" alt="IMG_20261002_121848" src="https://github.com/user-attachments/assets/4da3021e-7987-42d5-8e57-150c425cddff" />
 
 **Serial Monitor / Recorded Readings:**  
+<img width="1512" height="982" alt="image" src="https://github.com/user-attachments/assets/9d29c8a8-6fe1-408b-9f3e-037fde54aa1b" />
 
-[Insert image here]
+<img width="1512" height="982" alt="Screenshot 2026-10-02 at 12 02 48 PM" src="https://github.com/user-attachments/assets/c666cd33-8f42-497c-a763-c160ea33dab7" />
 
----
+<img width="1512" height="982" alt="Screenshot 2026-10-02 at 12 03 17 PM" src="https://github.com/user-attachments/assets/5a1a17a4-480c-4355-963f-6d115c1c9e96" />
+
+<img width="1512" height="982" alt="Screenshot 2026-10-02 at 12 03 29 PM" src="https://github.com/user-attachments/assets/287abdf0-3b62-44f6-a137-77b0df3cf27a" />
+
+<img width="1512" height="982" alt="Screenshot 2026-10-02 at 12 03 42 PM" src="https://github.com/user-attachments/assets/ca877a5a-e51f-4bc8-8971-6c884cb7ec64" />
 
 # Example 4: PWM LED Brightness
 
@@ -106,9 +111,9 @@ The PWM duty cycle was calculated using:
 
 The LED brightness changed when the potentiometer was rotated.
 
-At the minimum position, the PWM setting was 0 and the LED was off. As the potentiometer value increased, the PWM setting also increased and the LED became brighter.
+At the minimum position, the PWM setting was 0, and the LED was off. As the potentiometer value increased, the PWM setting also increased and the LED became brighter.
 
-At the maximum position, the PWM setting reached 255 or 100% duty cycle, giving the LED its highest brightness.
+At the maximum position, the PWM setting reached 255, or a 100% duty cycle, giving the LED its highest brightness.
 
 The PWM values are duty-cycle settings and are not DAC voltage measurements.
 
@@ -118,15 +123,22 @@ https://github.com/user-attachments/assets/ac4b8dec-a24f-4296-98c4-3e0fe19ad733
 
 **Circuit Setup:**  
 
-[Insert image here]
+<img width="4096" height="2304" alt="IMG_20261002_140228" src="https://github.com/user-attachments/assets/5876a95b-395c-4d6e-8798-3546f3d93baa" />
+
+<img width="4096" height="2304" alt="IMG_20261002_141924" src="https://github.com/user-attachments/assets/3523874d-5640-4b56-a8e1-6c7421f722fc" />
+
 
 **PWM / Serial Monitor Results:**  
 
-[Insert image here]
+<img width="1512" height="982" alt="Screenshot 2026-10-02 at 2 23 39 PM" src="https://github.com/user-attachments/assets/2950eb76-200f-4ca5-ad7b-ca7ff5b65fc8" />
 
-**LED Brightness:**  
+<img width="1512" height="982" alt="Screenshot 2026-10-02 at 2 24 33 PM" src="https://github.com/user-attachments/assets/42450f5b-9fa7-46b3-8798-12ba0e863713" />
 
-[Insert image here]
+<img width="1512" height="982" alt="Screenshot 2026-10-02 at 2 25 06 PM" src="https://github.com/user-attachments/assets/59e3d9e3-72c5-417f-88db-7d87fb3cb7a3" />
+
+<img width="1512" height="982" alt="Screenshot 2026-10-02 at 2 25 50 PM" src="https://github.com/user-attachments/assets/24f4fd40-ab18-4e3d-8eae-68cd88746874" />
+
+<img width="1512" height="982" alt="Screenshot 2026-10-02 at 2 26 27 PM" src="https://github.com/user-attachments/assets/8fab57f9-9472-4789-9be2-076755a52291" />
 
 ---
 
